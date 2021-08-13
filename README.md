@@ -20,5 +20,4 @@ Tarefas realizadas no projeto
 ## 🚀 Link para projeto
  https://eduardo12561.github.io/Teste-tecnico/
 
-## Considerações Finais
-Venho de antemão agradecer a oportunidade de realizar esse projeto como parte do processo seletivo, o mesmo trouxe muito aprendizado para o meu lado programador, o mesmo foi feito com auxilio de pesquisas no google e em sites como Stack Overflow, Javascript MDN e W3Schools.
+
